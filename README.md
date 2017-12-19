@@ -1,2 +1,2 @@
-# Python-Programming
-This repository contains the programs I worked on while learning to code in Python 3.
+# Python-Programming module 2
+This module focuses on strings and text files, lists and dictionaries, and designing with functions.
