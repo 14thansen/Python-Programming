@@ -1,2 +1,2 @@
-# Python-Programming
-This repository contains the programs I worked on while learning to code in Python 3.
+# Python-Programming module 1
+This module focuses on the basics of programming in python 3, software development, data types, and expressions. It also covers control statements.
